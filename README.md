@@ -19,5 +19,5 @@ This Python project combines speech recognition and text-to-speech functionality
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abdul/Speech-Recognition-TTS-Converter.git
+   git clone https://github.com/AbdulMa1505/Speech-to-text-converter.git
    cd Speech-Recognition-TTS-Converter
